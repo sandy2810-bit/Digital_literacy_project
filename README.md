@@ -37,7 +37,7 @@ This repository contains my Digital Literacy Portfolio, created as part of my co
 - Created a **Digital Literacy Awareness Quiz** using Google Forms  
 - Included multiple choice and short answer questions  
 - Linked responses to Google Sheets  
-- 🔗 **Quiz Link:** [Paste Your Google Form Link Here]  
+- 🔗 **Quiz Link:** https://forms.gle/BDcnFRmSkpzrngZv6   
 📁 Folder: `task-3-platforms/`
 
 ---
