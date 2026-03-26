@@ -34,4 +34,6 @@ While researching cybercrime, what surprised me the most was how easily people c
 
 As a result of this research, one habit I will personally change is being more cautious before approving any online transaction or clicking on links. I will always verify the source of any request and avoid acting in a hurry. This awareness will help me stay safer online and protect my personal and financial information.
 
+---
+
 ### Geet Tiwari 25BAI10389
