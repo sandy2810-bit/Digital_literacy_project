@@ -1,0 +1,5 @@
+# Project Report
+
+I created accounts on GitHub, LinkedIn, and Kaggle as part of building my digital portfolio. GitHub is a platform used for hosting and managing code, where developers can store projects and collaborate with others. I plan to use it to upload my Python projects, track my progress, and contribute to open-source work. LinkedIn is a professional networking platform that helps students connect with industry professionals and showcase their skills and achievements. I have added my education details and will continue to build my profile by sharing certifications and projects. Kaggle is a platform mainly used for data science and machine learning, where users can work on datasets and participate in competitions. I plan to use Kaggle to practice data analysis and improve my problem-solving skills.
+
+Over the next four years, I aim to actively use these platforms to build a strong online presence, enhance my technical skills, and prepare for internships and job opportunities. These platforms will help me learn continuously and stay connected with the professional community.
